@@ -154,7 +154,7 @@
                         <span class="more">更多</span>
                     </div>
                     <div class="item-content-cards">
-                        <div class="item-card">
+                        <a class="item-card" href="{{route('detail')}}">
                             <div class="item-card-img">
                                 <img src="{{asset('images/card-img.jpg')}}" alt="">
                                 <div class="item-card-float">
@@ -166,7 +166,7 @@
                                 <p>美宜佳10-30万</p>
                                 <p>实地考察 统一装修 成本管控</p>
                             </div>
-                        </div>
+                        </a>
                         <div class="item-card">
                             <div class="item-card-img">
                                 <img src="{{asset('images/card-img.jpg')}}" alt="">
