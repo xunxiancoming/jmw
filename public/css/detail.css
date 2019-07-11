@@ -229,7 +229,6 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid #9D9D9D;
 }
 .detail-box .detail-right .detail-information .information-title .information-item,
 .detail-box .detail-right .detail-topic .information-title .information-item {
