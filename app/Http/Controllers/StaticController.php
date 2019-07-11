@@ -10,8 +10,14 @@ class StaticController extends Controller
     {
         return view('static.index');
     }
+
     public function list()
     {
         return view('static.list');
+    }
+
+    public function detail()
+    {
+        return view('static.detail');
     }
 }

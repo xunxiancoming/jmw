@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{{asset('css/base.css')}}">
     <link rel="stylesheet" href="{{asset('css/ui.css')}}">
     <link rel="stylesheet" href="{{asset('css/list.css')}}">
+    <link rel="stylesheet" href="{{asset('css/detail.css')}}">
     <script src="{{asset('js/jquery.js')}}"></script>
 </head>
 <body>

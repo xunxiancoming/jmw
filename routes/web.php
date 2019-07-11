@@ -12,3 +12,4 @@
 */
 Route::get('/','StaticController@index')->name('home');
 Route::get('/list','StaticController@list')->name('list');
+Route::get('/detail','StaticController@detail')->name('detail');
